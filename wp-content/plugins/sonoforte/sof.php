@@ -16,7 +16,7 @@
  * Plugin Name:       Sonoforte
  * Plugin URI:        https://github.com/ShinekhuuD/sonoforte
  * Description:       This plugin contains specific functions for Sonoforte.com
- * Version:           1.0.7
+ * Version:           1.0.9
  * Author:            Enkomion
  * Author URI:        https://enkomion.com
  * License:           GPL-2.0+
